@@ -1,0 +1,123 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+.needmore{
+    background-image: url(images/donation7.jpg);
+}
+.need{
+    text-align: center;
+    color: white;
+    padding: 100px;
+    padding-bottom: 100px;
+}
+
+.button-area{
+    background-color: brown;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+}
+.need h1{
+    font-size: 40px;
+}
+.donate-section{
+    text-align: center;
+    color: black;
+    padding: 100px;
+    padding-bottom: 50px; 
+}
+
+.donate-section p{
+      color:grey;
+}
+
+.flexible-container{
+    display: flex;
+    margin:100px;    
+
+}
+.part-4{
+    width: 20%;
+    box-shadow: 10px 10px 40px gray;
+   padding:20px;
+    margin-left: 4%;
+    margin-right: 4%; 
+    text-align: center; 
+
+}
+.div-2{
+    background-color: darkorange;
+    color: white;
+}
+
+
+
+.donate-plan h1{
+    text-align: center;
+    color: red;
+}
+
+.donate-plan p{
+    text-align: center;
+}
+
+
+
+.part-3{
+    width: 27%;
+    box-shadow: 10px 10px 40px gray(226, 43, 156);
+    padding-left: 10px;
+    padding-right: 5px;
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.food-item{
+    background-color: rgba(116, 178, 157, 0.92);
+}
+
+
+
+.shelter-item{
+    background-color:bisque
+}
+
+.education-item{
+    background-color: darkorchid;
+}
+
+.half-width{
+    width:50%;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.half-width img{
+    width:80%;
+    height:80%;
+}
+
+.updates{
+    text-align: center;
+    padding:100px;
+}
+.updates-1{
+    width:100%;
+    text-align:center;
+    padding-bottom: 100px;
+}
+
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding:20px;    
+}
+footer h4{
+    color: brown;
+    font-family:'Poppins', sans-serif;
+    
+}
